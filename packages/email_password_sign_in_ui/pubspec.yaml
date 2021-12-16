@@ -20,12 +20,12 @@ dependencies:
   custom_buttons:
     #path: ../custom_buttons
     git:
-      url: https://github.com/bizz84/codewithandrea_flutter_packages
+      url: https://github.com/jeff9315/codewithandrea_flutter_packages/tree/master/packages
       path: packages/custom_buttons
   string_validators:
     #path: ../string_validators
     git:
-      url: https://github.com/bizz84/codewithandrea_flutter_packages
+      url: https://github.com/jeff9315/codewithandrea_flutter_packages/tree/master/packages
       path: packages/string_validators
 
 dev_dependencies:
