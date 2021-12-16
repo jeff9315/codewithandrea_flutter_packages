@@ -11,11 +11,11 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  firebase_auth: ^1.0.0
+  firebase_auth: ^3.3.4
   alert_dialogs:
     #path: ../alert_dialogs
     git:
-      url: https://github.com/bizz84/codewithandrea_flutter_packages
+      url: https://github.com/jeff9315/codewithandrea_flutter_packages/tree/master/packages
       path: packages/alert_dialogs
   custom_buttons:
     #path: ../custom_buttons
@@ -32,7 +32,7 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   mockito: ^5.0.0
-  build_runner: ^1.11.5
+  build_runner: ^2.1.5
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
