@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/string_validators/build" />
+      <excludeFolder url="file://$MODULE_DIR$/string_validators/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/string_validators/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/custom_buttons/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/custom_buttons/build" />
+      <excludeFolder url="file://$MODULE_DIR$/custom_buttons/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/firebase_auth_service/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/firebase_auth_service/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/firebase_auth_service/build" />
+      <excludeFolder url="file://$MODULE_DIR$/google_sign_in_service/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/google_sign_in_service/build" />
+      <excludeFolder url="file://$MODULE_DIR$/google_sign_in_service/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/alert_dialogs/build" />
+      <excludeFolder url="file://$MODULE_DIR$/alert_dialogs/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/alert_dialogs/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/firestore_service/build" />
+      <excludeFolder url="file://$MODULE_DIR$/firestore_service/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/firestore_service/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/auth_widget_builder/build" />
+      <excludeFolder url="file://$MODULE_DIR$/auth_widget_builder/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/auth_widget_builder/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/email_password_sign_in_ui/build" />
+      <excludeFolder url="file://$MODULE_DIR$/email_password_sign_in_ui/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/email_password_sign_in_ui/.pub" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
